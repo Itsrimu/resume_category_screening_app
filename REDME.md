@@ -43,16 +43,6 @@ This project is a machine learning-based resume screening tool that classifies r
 4. **Prediction**  
    Use the `pred` function in the notebook to predict the category of a new resume.
 
-## Requirements
-
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-
-(See `requirements.txt` for the full list.)
 
 ## Data
 
@@ -60,6 +50,3 @@ The dataset (`data/UpdatedResumeDataSet.csv`) should contain at least two column
 - `Resume`: The text of the resume.
 - `Category`: The target label for classification.
 
-## License
-
-This project is for educational purposes.
