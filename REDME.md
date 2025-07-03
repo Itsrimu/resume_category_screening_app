@@ -17,7 +17,7 @@ This project is a machine learning-based resume screening tool that classifies r
   - `clf.pkl`: Trained classification model (e.g., SVM or Random Forest).
   - `encoder.pkl`: Label encoder for target categories.
   - `tfidf.pkl`: Trained TF-IDF vectorizer for text feature extraction.
-Just run  the wole NOTEBOOK after making model folder
+- Just run  the wole NOTEBOOK after making model folder
 ## Features
 
 - Loads and preprocesses resume data from CSV.
